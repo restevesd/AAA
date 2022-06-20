@@ -1,6 +1,5 @@
 # Base
 tqdm  # required by pycaret.internal.display
-numpy  # Can't >=1.22 because of sktime/numba
 pandas
 jinja2>=1.2  # Required by pycaret.internal.utils --> pandas.io.formats.style
 scipy<1.9.0  # Can't >=1.9.0 due to sktime
