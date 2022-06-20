@@ -1,28 +1,2 @@
 # Base
-tqdm  # required by pycaret.internal.display
-pandas
-jinja2>=1.2  # Required by pycaret.internal.utils --> pandas.io.formats.style
-scipy<1.9.0  # Can't >=1.9.0 due to sktime
-joblib>=1.1.0
-scikit-learn==0.23.2
-pyod>=0.9.8
-imbalanced-learn>=0.8.1
-category-encoders>=2.4.0
-lightgbm>=3.0.0
-numba
-requests>=2.27.1  # Required by pycaret.datasets
-psutil>=5.9.0
-
-# Plotting
-matplotlib>=3.3.0
-scikit-plot>=0.3.7
-yellowbrick>=1.4
-plotly>=5.0.0
-kaleido>=0.2.1
-schemdraw>=0.14
-
-# Time-series
-statsmodels>=0.12.1
-sktime>=0.11.4
-tbats>=1.1.0
-pmdarima>=1.8.0
+pycaret
