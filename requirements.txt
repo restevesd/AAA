@@ -77,7 +77,7 @@ nest-asyncio==1.5.5
 networkx==2.6.3
 nltk==3.7
 notebook==6.4.12
-numba==0.54.1
+numba
 numexpr==2.8.1
 numpy==1.19.5
 oauthlib==3.2.0
