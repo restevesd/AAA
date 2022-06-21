@@ -60,7 +60,6 @@ jupyterlab-widgets==1.1.0
 kiwisolver==1.4.3
 kmodes==0.12.1
 lightgbm==3.3.2
-llvmlite==0.37.0
 Mako==1.2.0
 MarkupSafe==2.1.1
 matplotlib==3.5.2
